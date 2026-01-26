@@ -3,15 +3,6 @@
 ### I am a beginner web developer
 
 Languages and Tools:
-- HTML5
-- CSS
-- LESS
-- JavaScript
-- TypeScript
-- React
-- Git
-- Node
-
-
-
-
+- JavaScript / TS
+- PHP
+- Docker
